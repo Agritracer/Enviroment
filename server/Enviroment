@@ -1,0 +1,6 @@
+DB_URI=mongodb+srv://2212442:%404444phuc@animal-traceability-dat.9hreixm.mongodb.net/agriculture-traceability?retryWrites=true&w=majority
+CLOUDINARY_NAME=
+CLOUDINARY_KEY=
+CLOUDINARY_SECRET=
+JWT_SECRET=
+JWT_LIFETIME=
