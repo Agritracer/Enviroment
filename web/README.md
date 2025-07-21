@@ -8,4 +8,4 @@ Dưới đây là danh sách các biến môi trường cần thiết để ch�
 
 | Biến môi trường        | Mô tả                  | Ví dụ / Ghi chú       |
 |-----------------------|------------------------|-----------------------|
-| `REACT_APP_API_URL`             | domain kết nối Backend | http://127.0.0.1:5000 |
+| `REACT_APP_API_URL`             | domain kết nối Backend | http://server:5000 |
