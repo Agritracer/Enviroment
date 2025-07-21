@@ -14,3 +14,5 @@ Dưới đây là danh sách các biến môi trường cần thiết để ch�
 | `CLOUDINARY_SECRET`            | CloudDinary       |CloudDinary                            |
 | `JWT_SECRET`   | Xác thực          | |
 | `JWT_LIFETIME`| Thời Gian Sống    |                    |
+| `API_URL_DOMAIN` | API Domain | /api |
+| `API_KEY` | API Key | XXXXXXXXXXXXXXXXXXX |
